@@ -1,0 +1,11 @@
+{
+    "require": {
+        "goaop/framework": "^2.1",
+        "monolog/monolog": "^1.22"
+    },
+    "autoload": {
+        "psr-4": {
+            "Conference\\Demo\\": "src"
+        }
+    }
+}
